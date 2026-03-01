@@ -72,7 +72,7 @@ An interactive dashboard was built featuring:
 ---
 
 ## 📸 Dashboard Preview
-![Swiggy Sales Dashboard](dashboard.png)
+![Swiggy Sales Dashboard](screenshot/dashboard.png)
 
 ---
 
